@@ -1,4 +1,4 @@
-# Tecnologies
+# Technologies
 
 - React Using Vite
 - Redux
